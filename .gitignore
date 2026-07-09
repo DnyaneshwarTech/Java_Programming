@@ -1,0 +1,26 @@
+# Compiled Java files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Build folders
+bin/
+build/
+target/
+out/
+
+# Maven
+.mvn/
+
+# Gradle
+.gradle/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
