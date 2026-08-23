@@ -1,4 +1,4 @@
-class OddNumbers_04
+class OddNumbers_05
 {
     public static void main(String A[])
     {
