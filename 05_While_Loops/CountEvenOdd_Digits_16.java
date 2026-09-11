@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CountEvenOdd_Digits_15
+public class CountEvenOdd_Digits_16
 {
     public static void main(String A[])
     {
